@@ -10,18 +10,18 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
     
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Hi, Welcome to my webpage! I am Akshai Ramesh, a dedicated NLP researcher with a strong focus on Neural Machine Translation (NMT) and Large Language Models (LLMs).  My passion is to explore new technologies and harness the power of Machine Learning to solve complex language-related challenges.
 
 <b>Professional Highlights:</b>
 
-Career Path: With over 6 years of industrial experience in the field in NLP and Machine Learning, my journey has been both fulfilling and dynamic. I've honed my skills and expertise through hands-on experience and academic contributions, making me well-versed in the intricacies of language technology.
+<u>Career Path:</u> With over 6 years of industrial experience in the field in NLP and Machine Learning, my journey has been both fulfilling and dynamic. I've honed my skills and expertise through hands-on experience and academic contributions, making me well-versed in the intricacies of language technology.
 
-Educational Background: I hold a Master's degree in Computing from Dublin City University, Ireland. This academic foundation has enriched my approach to research and innovation, allowing me to make significant contributions to the academic community through research paper publications in prestigious conferences and journals.
+<u>Educational Background:</u> I hold a Master's degree in Computing from Dublin City University, Ireland. This academic foundation has enriched my approach to research and innovation, allowing me to make significant contributions to the academic community through research paper publications in prestigious conferences and journals.
 
 <b>Current Role:</b>
 
