@@ -31,7 +31,7 @@ I am currently working as  a Research Scientist for [Language Weaver](https://ww
 
 <p>Solving Complex Challenges:</p> My expertise extends to diverse areas, including Neural Machine Translation, machine translation quality estimation, synthetic data generation, and unstructured to structured data conversion. I thrive on solving complex problems and developing innovative solutions that address real-world needs.
 
-<p><b>Research interests:</b></p> Neural Machine Translation (NMT), Large Language Models (LLMs), Low-Resource NMT, Domain Adaptation, Reinforcement Learning.
+<b><p>Research interests:</p></b> Neural Machine Translation (NMT), Large Language Models (LLMs), Low-Resource NMT, Domain Adaptation, Reinforcement Learning.
 
 Are you stupid enough to think you can change the world with your idea? Great, I think so too! 🤗
 
