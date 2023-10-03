@@ -30,6 +30,9 @@ I am currently working as  a Research Scientist for [Language Weaver](https://ww
 
 <b>Solving Complex Challenges:</b> My expertise extends to diverse areas, including Neural Machine Translation, machine translation quality estimation, synthetic data generation, and unstructured to structured data conversion. I thrive on solving complex problems and developing innovative solutions that address real-world needs.
 
+Research interests:Domain Adaptation, Large Language Models (LLMs), Reinforcement Learning, 
+
+
 Are you stupid enough to think you can change the world with your idea? Great, I think so too!
 
-Thank you for visiting my personal webpage. I look forward to connecting with fellow professionals, researchers, and organizations passionate about the limitless possibilities of Natural Language Processing and Machine Learning. Let's shape the future of NLP together.
+Thank you for visiting my personal webpage. I look forward to connecting with fellow professionals, researchers, and organizations passionate about the limitless possibilities of Natural Language Processing and Machine Learning. Let's shape the future of NLP together.🚀
